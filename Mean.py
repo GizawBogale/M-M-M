@@ -7,5 +7,6 @@ def mean(salaries):
         sum +=i
         mean = sum/len(salaries)
     return mean
+print("the mean of the given array is:",mean(salaries)
 print("the mean of the given array is:",mean(salaries))
 
