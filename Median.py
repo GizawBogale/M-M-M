@@ -1,5 +1,5 @@
 # to find the median of the given array
-salaries = [41, 52, 85, 10, 15, 20, 25, 30, 35, 40]
+salaries = [1250, 1200, 813, 1046, 1046, 806, 952, 927, 915, 861, 850, 814, 813, 809, 808, 806, 792, 778, 757, 755, 813, 752, 750]
 def median(salaries):
     salaries.sort()
     if len(salaries) % 2 != 0:
