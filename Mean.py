@@ -8,6 +8,6 @@ def mean(salaries):
         mean = sum/len(salaries)
     return mean
 print("The mean of the given array is:",mean(salaries)
-print("The mean of the given array is:",mean(salaries)
+
 
 
