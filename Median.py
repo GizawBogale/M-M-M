@@ -9,3 +9,4 @@ def median(salaries):
         median = median/2
     return median
 print("the median of the given array is:", median(salaries))
+
